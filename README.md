@@ -1,1 +1,1 @@
-# deep-q-learning-pong
+# Deep Q-Learning - Pong Game
