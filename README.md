@@ -1,3 +1,3 @@
-# deep-q-learning-pong
+# Deep Q-Learning Pong Game Project
 
-https://github.com/marionmck/My-Coding-Projects#ai--reinforcement-learning-deep-q-learning--pong-game
+More information [here]https://github.com/marionmck/My-Coding-Projects#ai--reinforcement-learning-deep-q-learning--pong-game
